@@ -1,7 +1,7 @@
 # Pharmacovigilance ADR Analytics Dashboard
 
 ## Overview
-An end-to-end healthcare analytics project focused on analyzing Adverse Drug Reaction (ADR) reports using Python, SQL, and Power BI. The project aims to identify drug safety patterns, severity trends, demographic insights, and key pharmacovigilance metrics through interactive visualizations.
+An end-to-end healthcare analytics project focused on analyzing Adverse Drug Reaction (ADR) reports using Python, SQL, and Power BI. The project aims to identify drug safety patterns, severity trends, demographic insights, and key pharmacovigilance metrics through interactive visualizations.Dataset not included due to file size limitations.
 
 ## Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
